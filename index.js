@@ -5,5 +5,8 @@ let count = 0;
 const increment = () => {
     count += 1;
     countEl.innerText = count;
-    console.log(count)
 }
+
+const save = () => {
+    console.log(count)
+};
