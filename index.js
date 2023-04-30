@@ -14,3 +14,5 @@ const save = () => {
     countEl.textContent = 0;
     count = 0;
 };
+
+// Add the ability to be warned when you are approaching max cap and then when you have hit it. 
