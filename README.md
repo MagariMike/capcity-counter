@@ -1,21 +1,30 @@
-# co8c8428fa88013351d68c967
+# Venue Capacity Counter App 🎸
+
+This app came about as i studied music for many years and still play in bands regularly. I noticed that many venues still provide manual "clicker" style counters for door staff to use to make sure the venues capacity is not exceeded. That led me to build this app which digitizes this in a much more user friendly way using HTML, CSS and JavaScript.  
+
+<br> 
 
 Quick start:
+
+* Clone this Repo
+* CD to the relevant folder
+* Run the following scripts:
 
 ```
 $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## VITE 
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Vite uses native ES modules and modern browser APIs to compile code on the fly, providing fast build times and instant updates in the browser.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+When running "npm start" you will have the opportunity to run any of the follow VITE commands: 
 
-Happy Coding!
+  - press r to restart the server
+  - press u to show server url
+  - press o to open in browser
+  - press c to clear console
+  - press q to quit
+
+To find out more about VITE see here: https://vitejs.dev
